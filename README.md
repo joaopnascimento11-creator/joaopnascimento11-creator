@@ -1,15 +1,11 @@
 <!-- CABEÇALHO -->
 <p align="center">
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1500&color=#F8F8FF&center=true&vCenter=true&width=600&lines=Joao+Pedro"
-alt ="João Pedro"
-/>
+  <img src="https://demolab.com" alt="João Pedro" />
 </p>
 <p align="center">
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=450&lines=Programming+%26+Technology;Always+learning%2C+always+building."
-alt="Programming and Technology"
-/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=450&lines=Programming+%26+Technology;Always+learning%2C+always+building." alt="Programming and Technology" />
+</p>
+
 </p>
 Estudante de Desenvolvimento de Sistemas
 <p align="left">
