@@ -1,7 +1,7 @@
 <!-- CABEÇALHO -->
 <p align="center">
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=João+Pedro"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Arthur+Duque"
 alt="João Pedro"
 />
 </p>
