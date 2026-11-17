@@ -1,17 +1,22 @@
+JOÃO PEDRO DUARTE DO NASCIMENTO
 <!-- CABEÇALHO -->
 <p align="center">
-  <img src="https://demolab.com" alt="João Pedro" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Joao+Pedro"
+alt="Joao pedro"
+/>
 </p>
 <p align="center">
-  <img src="https://demolab.com." alt="Programming and Technology" />
-</p>
-
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=450&lines=Programming+%26+Technology;Always+learning%2C+always+building."
+alt="Programming and Technology"
+/>
 </p>
 Estudante de Desenvolvimento de Sistemas
 <p align="left">
 Tenho 16 anos e atualmente curso Desenvolvimento de Sistemas no SENAI e estou no 2º ano do Ensino Médio no SESI.
 <br><br>
-Sou interessado em tecnologia, programação e aprender. Sempre Busco meios de desenvolver meus conhecimentos técnicos e pessoais, aprimorar minhas habilidades e construir minha trajetória profissional na área de tecnologia.
+Sou interessado em tecnologia, programação e aprender. Sempre busco  desenvolver meus conhecimentos técnicos e pessoais, aprimorar minhas habilidades e construir minha trajetória profissional na área de tecnologia.
 </p>
 
 Sobre mim
@@ -42,12 +47,6 @@ Outros conhecimentos
 Lógica de programação.
 Desenvolvimento de Sistemas.
 Microsoft Excel — Intermediário.
-/>
-</a>
-</p>
-<p align="center">
-<i>
-<strong>
 "O aprendizado contínuo é o caminho para transformar conhecimento em oportunidades."
 </strong>
 </i>
