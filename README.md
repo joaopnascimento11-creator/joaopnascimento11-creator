@@ -2,7 +2,7 @@ JOÃO PEDRO DUARTE DO NASCIMENTO
 <!-- CABEÇALHO -->
 <p align="center">
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1500&color=38BDF8&centere&vCenter=true&width=600&lines=Joao+Pedro"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1500&color=38BDF8&center&vCenter=true&width=600&lines=Joao+Pedro"
 alt="Joao pedro"
 />
 </p>
