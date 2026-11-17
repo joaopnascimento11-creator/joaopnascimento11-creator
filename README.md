@@ -1,8 +1,6 @@
 <!-- CABEÇALHO -->
 <p align="center">
-  <img src="https://demolab.com" alt="João Pedro" />
-  <br>
-  <img src="https://demolab.com" alt="Duarte do Nascimento" />
+  <img src="https://vercel.app" width="100%" alt="Cabeçalho João Pedro" />
 </p>
 
 <p align="center">
@@ -59,4 +57,5 @@
 <p align="center">
   Obrigado pela visita ao meu perfil!
 </p>
+
 
