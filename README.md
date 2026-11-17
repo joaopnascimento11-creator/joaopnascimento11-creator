@@ -41,5 +41,22 @@ Tenho interesse em tecnologia, programação e criação de soluções digitais.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</p>
+
+## Outros conhecimentos
+
+- Lógica de programação
+- Desenvolvimento de sistemas
+- Microsoft Excel — nível intermediário
+- Aprendizagem contínua e desenvolvimento profissional
+
+<p align="center">
+  <i><strong>🎮 "Cada linha de código é uma nova fase: aprender, criar e evoluir até alcançar o próximo nível."</strong></i>
+</p>
+
+<p align="center">
+  Obrigado pela visita ao meu perfil!
+</p>
