@@ -2,7 +2,7 @@ JOÃO PEDRO DUARTE DO NASCIMENTO
 <!-- CABEÇALHO -->
 <p align="center">
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Joao+Pedro"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1500&color=#F8F8FF&center=true&vCenter=true&width=600&lines=Joao+Pedro"
 alt="Joao pedro"
 />
 </p>
@@ -23,9 +23,8 @@ Sobre mim
 Curso Técnico em Desenvolvimento de Sistemas — SENAI.
 2º ano do Ensino Médio — SESI.
 Interesse em programação e desenvolvimento de software.
-Microsoft Excel — Intermediário.
-Inglês — Avançado.
-Espanhol — Básico.
+Microsoft Excel —básicp.
+Inglês — básico.
 Em constante aprendizado e desenvolvimento profissional.
 Linguagens e Tecnologias
 <div align="left">
@@ -46,8 +45,8 @@ Linguagens e Tecnologias
 Outros conhecimentos
 Lógica de programação.
 Desenvolvimento de Sistemas.
-Microsoft Excel — Intermediário.
-"O aprendizado contínuo é o caminho para transformar conhecimento em oportunidades."
+Microsoft Excel — Básico.
+"A educação é a arma mais poderosa arma mais poderosa que você pode usar para mudar o mundo."
 </strong>
 </i>
 </p>
