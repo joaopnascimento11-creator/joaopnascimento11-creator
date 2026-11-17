@@ -31,5 +31,32 @@ Tenho grande interesse por tecnologia, programação e inovação. Busco aprimor
 ## Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</p>
+
+## Outros conhecimentos
+
+- Lógica de programação
+- Desenvolvimento de sistemas
+- Microsoft Excel — nível intermediário
+- Aprendizagem contínua e desenvolvimento profissional
+
+<p align="center">
+  <i><strong>"A aprendizagem contínua é o caminho para transformar conhecimento em oportunidades."</strong></i>
+</p>
+
+<p align="center">
+  Obrigado pela visita ao meu perfil!
+</p>
