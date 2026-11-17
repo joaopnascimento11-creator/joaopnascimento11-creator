@@ -3,7 +3,7 @@
   <img src="https://demolab.com" alt="João Pedro" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=450&lines=Programming+%26+Technology;Always+learning%2C+always+building." alt="Programming and Technology" />
+  <img src="https://demolab.com." alt="Programming and Technology" />
 </p>
 
 </p>
